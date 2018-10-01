@@ -1,1 +1,3 @@
 My homework file.
+I made my initial commit.
+Now i have made changes.
